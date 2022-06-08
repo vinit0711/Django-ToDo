@@ -1,0 +1,19 @@
+# https://github.com/vinit0711/Django-ToDo.git
+
+venv
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+
+
+# /datamanix/settings.py
+
+# Byte-compiled / optimized / DLL files
+app/__pycache__/*
+ToDo/__pycache__/*
+
+__pycache__/
+*__pycache*
+*__pycache*
+**/__pycache__
